@@ -1,0 +1,43 @@
+body {
+
+  position: absolute;
+}
+
+a {
+  color: #00B7FF;
+}
+#myrocket {
+	position : absolute;
+	left: 880px;
+	top: 10px;
+	background-color: #000;
+	width: 15px;
+	height:100px;
+}
+#ball {
+	position: absolute;
+	left: 400px;
+	top: 200px;
+	width: 15px;
+	height: 15px;
+	background-color: #000;
+	border-radius:10px;
+}
+#game {
+	position: absolute;
+	width:900px;
+	height:600px;
+	background-color: #ececec;
+}
+#start {
+	position: absolute;
+	width: 100px;
+	height:50px;
+	left:600px;
+	top: 50px;
+	cursor: pointer;
+	background-color:#eeee;
+}
+.room-list-item {
+	cursor : pointer;
+}
